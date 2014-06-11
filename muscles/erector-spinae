@@ -1,0 +1,9 @@
+:name "Erector spinae"
+
+:description (
+              :de "Rückenstrecker."
+             )
+
+:attributes (
+             :group :back
+            )
