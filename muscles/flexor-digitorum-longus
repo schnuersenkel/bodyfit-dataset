@@ -1,0 +1,9 @@
+:name "Flexor digitorum longus"
+
+:description (
+              :de "Tiefer Unterschenkelbeuger."
+             )
+
+:attributes (
+             :group :legs
+            )

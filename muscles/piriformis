@@ -1,0 +1,9 @@
+:name "Piriformis"
+
+:description (
+              :de "Birnförmiger Muskel."
+             )
+
+:attributes (
+             :group :legs
+            )

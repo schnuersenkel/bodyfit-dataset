@@ -1,0 +1,9 @@
+:name "Obliquus externus abdominis"
+
+:description (
+              :de "Äußerer schräger  Bauchmuskel."
+             )
+
+:attributes (
+             :group :stomach
+            )

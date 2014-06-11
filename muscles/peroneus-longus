@@ -1,0 +1,9 @@
+:name "Peroneus longus"
+
+:description (
+              :de "langer Wadenbeimuskel"
+             )
+
+:attributes (
+             :group :legs
+            )

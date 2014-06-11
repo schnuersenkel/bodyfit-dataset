@@ -1,0 +1,9 @@
+:name "Rectus abdominis"
+
+:description (
+              :de "Grader Bauchmuskel."
+             )
+
+:attributes (
+             :group :stomach
+            )

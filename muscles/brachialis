@@ -1,0 +1,9 @@
+:name "Brachialis"
+
+:description (
+              :de "Armbeuger."
+             )
+
+:attributes (
+             :group :arms
+            )

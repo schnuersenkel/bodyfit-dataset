@@ -1,0 +1,9 @@
+:name "Triceps brachii"
+
+:description (
+              :de "3köpfiger Armstrecker"
+             )
+
+:attributes (
+             :group :arms
+            )

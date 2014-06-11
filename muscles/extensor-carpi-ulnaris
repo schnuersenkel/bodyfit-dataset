@@ -1,0 +1,9 @@
+:name "Extensor carpi ulnaris"
+
+:description (
+              :de "Kapselverstärker Ulnaabduktion."
+             )
+
+:attributes (
+             :group :arms
+            )

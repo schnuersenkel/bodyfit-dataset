@@ -1,0 +1,9 @@
+:name "Adductor longus"
+
+:description (
+              :de "Langer Schenkelanzieher."
+             )
+
+:attributes (
+             :group :legs
+            )

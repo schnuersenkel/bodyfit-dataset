@@ -1,0 +1,21 @@
+:name "Push up (Full plank + hoch und runter)"
+
+:description (
+              :de "Ausgangsposition ist die Plank-Position. Durch
+              gleichzeitiges beugen der Oberarme nähern man den immernoch
+              gestrecktern Oberkörper dem Boden an, bis man mit der Nase
+              fast den Boden berührt. Nun werden gleichtzeitig beide Arme
+              gestreckt wodurch man sich wieder in die Ausgangposition
+              zurück drückt."
+             )
+
+:tags (:level-2, :full-body)
+
+:involved (
+           ("Triceps brachii")
+           ("Pectoralis major")
+           ("Deltotideus")
+           ("Latissimus dorsi")
+           ("Rectus abdominis")
+           ("Quadriceps femoris")
+          )

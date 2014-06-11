@@ -1,0 +1,9 @@
+:name "Trapezius"
+
+:description (
+              :de "Trapezmuskel"
+             )
+
+:attributes (
+             :group :back
+            )

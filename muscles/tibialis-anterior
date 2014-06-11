@@ -1,0 +1,9 @@
+:name "Tibialis anterior"
+
+:description (
+              :de "forderer Schienenbeinmuskel"
+             )
+
+:attributes (
+             :group :legs
+            )

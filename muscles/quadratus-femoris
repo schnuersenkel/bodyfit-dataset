@@ -1,0 +1,9 @@
+:name "Quadratus femoris"
+
+:description (
+              :de "4seitiger Schenkelmuskel."
+             )
+
+:attributes (
+             :group :legs
+            )

@@ -1,0 +1,9 @@
+:name "Adductor brevis"
+
+:description (
+              :de "Kurzer Schenkelanzieher."
+             )
+
+:attributes (
+             :group :legs
+            )

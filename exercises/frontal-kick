@@ -1,0 +1,17 @@
+:name "Frontal kick (Tritt nach Vorne)"
+
+:description (
+              :de "Tritt nach Vorne."
+             )
+
+:tags (:level-1)
+
+:involved (
+
+           ("Quadriceps femoris" .
+                             (:mass 0.1
+                              :stamina 0.9))
+           ("Erector spinae")
+           ("Rectus abdominis")
+           ("Gluteus maximus")
+         )

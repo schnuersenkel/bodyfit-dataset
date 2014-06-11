@@ -1,0 +1,9 @@
+:name "Flexor carpi radialis"
+
+:description (
+              :de "Unterarm Beugermuskel."
+             )
+
+:attributes (
+             :group :arms
+            )

@@ -1,0 +1,9 @@
+:name "Semimembranosus"
+
+:description (
+              :de "Plattsehnenmuskel."
+             )
+
+:attributes (
+             :group :legs
+            )

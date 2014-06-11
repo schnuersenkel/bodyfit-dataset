@@ -1,0 +1,9 @@
+:name "Brachioradialis"
+
+:description (
+              :de "Oberarm Speichenmuskel."
+             )
+
+:attributes (
+             :group :arms
+            )

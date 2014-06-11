@@ -1,0 +1,9 @@
+:name "Palmaris longus"
+
+:description (
+              :de "Unterarm Beuger."
+             )
+
+:attributes (
+             :group :arms
+            )

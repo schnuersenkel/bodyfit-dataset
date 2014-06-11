@@ -1,0 +1,9 @@
+:name "Infraspinatus"
+
+:description (
+              :de "Teil der Rotatorenmanschette."
+             )
+
+:attributes (
+             :group :shoulders
+            )

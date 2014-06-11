@@ -1,0 +1,9 @@
+:name "Gastrocnemius"
+
+:description (
+              :de "Wadenheber Wadenzwillingsmuskel."
+             )
+
+:attributes (
+             :group :legs
+            )

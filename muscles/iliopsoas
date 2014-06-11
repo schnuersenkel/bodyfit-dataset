@@ -1,0 +1,9 @@
+:name "Iliopsoas"
+
+:description (
+              :de "Hüftlendenmuskel."
+             )
+
+:attributes (
+             :group :legs
+            )

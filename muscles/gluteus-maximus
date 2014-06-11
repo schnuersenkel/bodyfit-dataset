@@ -1,0 +1,9 @@
+:name "Gluteus maximus"
+
+:description (
+              :de "Großer Gesäßmuskel."
+             )
+
+:attributes (
+             :group :legs
+            )

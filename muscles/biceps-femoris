@@ -1,0 +1,9 @@
+:name "Biceps femoris"
+
+:description (
+              :de "Zweiköpfiger Oberschenkelbeuger."
+             )
+
+:attributes (
+             :group :legs
+            )

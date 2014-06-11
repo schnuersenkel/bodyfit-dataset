@@ -1,0 +1,9 @@
+:name "quadriceps femoris"
+
+:description (
+              :de "4köpfiger Schenkelmuskel."
+             )
+
+:attributes (
+             :group :legs
+            )

@@ -1,0 +1,15 @@
+:name "Squat (Kniebeuge)"
+
+:description (
+              :de "In die Hocke und danach wieder in den Stand gehen."
+             )
+
+:tags (:level-1)
+
+:involved (
+           ("Quadriceps femoris" .
+                             (:mass 1
+                              :stamina 0.2))
+           ("Erector spinae")
+           ("Deltoideus")
+          )

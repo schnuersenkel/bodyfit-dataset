@@ -1,0 +1,9 @@
+:name "Extensor carpi radialis longus"
+
+:description (
+              :de "Unterarm streckermuskel."
+             )
+
+:attributes (
+             :group :arms
+            )

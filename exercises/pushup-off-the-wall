@@ -1,0 +1,33 @@
+:name "Push up off the wall (an der Wand)"
+
+:description (
+              :de "Ausgangsposition ist der aufrechte Stand. Die Hände
+              werden etwa Schulterbreit auf eine Wand aufgelegt, die Arme
+              sind gestreckt. Durch gleichzeitiges beugen der Oberarme
+              nähern man den immernoch gestrecktern Oberkörper der Wand
+              an, bis man mit der Nase fast die Wand berührt. Nun werden
+              gleichtzeitig beide Arme gestreckt wodurch man sich wieder
+              in die Ausgangposition zurück drückt. Der Abstand der Füsse
+              zur Wand bestimmt den Winkel und somit die Intensität der
+              Übung."  
+             )
+
+:tags (:level-0 :full-body)
+
+:involved (
+           ("Triceps brachii" .
+                             (:mass .1
+                              :stamina .2))
+           ("Pectoralis major" .
+                             (:mass .1
+                              :stamina .1))
+           ("Deltoideus" .
+                             (:mass .1
+                              :stamina .1))
+           ("Rectus abdominis" .
+                             (:mass 0
+                              :stamina 0))
+           ("Latissimus dorsi" .
+                             (:mass 0
+                              :stamina 0))
+          )

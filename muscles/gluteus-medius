@@ -1,0 +1,9 @@
+:name "Gluteus medius"
+
+:description (
+              :de "Mittlerer Gesäßmuskel."
+             )
+
+:attributes (
+             :group :legs
+            )

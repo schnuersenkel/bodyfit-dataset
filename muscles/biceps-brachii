@@ -1,0 +1,9 @@
+:name "Biceps brachii"
+
+:description (
+              :de "Großer Oberarm Beuger."
+             )
+
+:attributes (
+             :group :arms
+            )

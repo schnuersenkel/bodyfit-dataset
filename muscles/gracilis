@@ -1,0 +1,9 @@
+:name "Gracilis"
+
+:description (
+              :de "Schlankmuskel."
+             )
+
+:attributes (
+             :group :legs
+            )

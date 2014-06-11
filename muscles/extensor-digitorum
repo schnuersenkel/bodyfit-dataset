@@ -1,0 +1,9 @@
+:name "Extensor digitorum"
+
+:description (
+              :de "Hand und Fingergelenkbeuger."
+             )
+
+:attributes (
+             :group :arms
+            )

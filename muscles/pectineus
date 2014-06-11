@@ -1,0 +1,9 @@
+:name "Pectineus"
+
+:description (
+              :de "Kammmuskel."
+             )
+
+:attributes (
+             :group :legs
+            )

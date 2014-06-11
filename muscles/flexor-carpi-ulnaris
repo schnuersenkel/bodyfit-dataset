@@ -1,0 +1,9 @@
+:name "Flexor carpi ulnaris"
+
+:description (
+              :de "Beugung des Handgelenkes."
+             )
+
+:attributes (
+             :group :arms
+            )

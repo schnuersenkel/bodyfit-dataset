@@ -1,0 +1,9 @@
+:name "Serratus anterior"
+
+:description (
+              :de "Vorderer Sägemuskel."
+             )
+
+:attributes (
+             :group :shoulders
+            )

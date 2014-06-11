@@ -1,0 +1,9 @@
+:name "Teres major"
+
+:description (
+              :de "Großer Rundmuskel."
+             )
+
+:attributes (
+             :group :back
+            )

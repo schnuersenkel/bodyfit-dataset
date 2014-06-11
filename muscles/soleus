@@ -1,0 +1,9 @@
+:name "Soleus"
+
+:description (
+              :de "Schollenmuskel."
+             )
+
+:attributes (
+             :group :legs
+            )

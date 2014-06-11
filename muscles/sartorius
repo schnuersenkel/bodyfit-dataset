@@ -1,0 +1,9 @@
+:name "Sartorius"
+
+:description (
+              :de "Schneidermuskel."
+             )
+
+:attributes (
+             :group :legs
+            )

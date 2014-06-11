@@ -1,0 +1,9 @@
+:name "Pectoralis major"
+
+:description (
+              :de "Brustmuskel"
+             )
+
+:attributes (
+             :group :chest
+            )

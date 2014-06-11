@@ -1,0 +1,9 @@
+:name "Latissimus dorsi"
+
+:description (
+              :de "Breiter Rückenmuskel."
+             )
+
+:attributes (
+             :group :back
+            )

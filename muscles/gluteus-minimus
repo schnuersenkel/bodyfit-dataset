@@ -1,0 +1,9 @@
+:name "Gluteus minimus"
+
+:description (
+              :de "Kleine Gesäßmuskel."
+             )
+
+:attributes (
+             :group :legs
+            )

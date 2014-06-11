@@ -1,0 +1,9 @@
+:name "Deltoideus"
+
+:description (
+              :de "Kappenmuskel oder Deltamuskel."
+             )
+
+:attributes (
+             :group :shoulders
+            )

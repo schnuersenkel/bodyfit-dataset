@@ -1,0 +1,9 @@
+:name "Adductor magnus"
+
+:description (
+              :de "Großer Schenkelanzieher."
+             )
+
+:attributes (
+             :group :legs
+            )

@@ -1,0 +1,9 @@
+:name "Tenso fasciae latae"
+
+:description (
+              :de "Schenkelbindenspanner."
+             )
+
+:attributes (
+             :group :legs
+            )

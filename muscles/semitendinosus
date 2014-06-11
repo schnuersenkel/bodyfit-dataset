@@ -1,0 +1,9 @@
+:name "Semitendinosus"
+
+:description (
+              :de "Halbsehnenmuskel."
+             )
+
+:attributes (
+             :group :legs
+            )
