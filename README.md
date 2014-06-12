@@ -3,9 +3,17 @@ bodyfit-dataset
 
 Muscle and exercise dictionary used by Bodyfit.
 
+## Konventionen
 
-Muskel Gruppen (:GROUP)
-=======================
+Wenn der `:name` "Frontal kick" ist, dann soll die Datei `frontal-kick`
+heißen. Im Fall von "Sit-up" wäre der Dateiname auch `sit-up`. Synonyme
+bzw. der deutsche Name sowie die Beschreibung gehört in das
+`:description` Feld.
+
+## Definierte Symbole
+
+### Muskel Gruppen (:GROUP)
+
 * :ARMS
 * :LEGS
 * :CHEST
@@ -13,8 +21,8 @@ Muskel Gruppen (:GROUP)
 * :SHOULDERS
 * :BACK
 
-Übungs Tags
-===========
+### Übungs Tags
+
 * :FULL-BODY
 * :CORE
 * :WARM-UP
@@ -28,7 +36,7 @@ Muskel Gruppen (:GROUP)
 * :LEVEL-3
 * :LEVEL-4
 
-Übungs Attribute (werte 0-1)
-============================
+### Übungs Attribute (werte 0-1), pro Muskel
+
 * :MASS
 * :STAMINA
