@@ -1,0 +1,17 @@
+:name "Push up knees"
+
+:description (
+              :de "Ausgangsposition ist die Bauchlage. Die Hände werden etwa Schulterbreit aufgesetzt und die Arme gestreckt. Durch Anspannung des Bauchs und des Rückens wird die Hüfte von Boden entfernt, so dass sich vom Kopf bis zu den Kniebeugen eine grade Linie bildet. Das Gewicht wird auf Hände und die Knie verteilt. Durch gleichzeitiges beugen der Oberarme nähert man den immernoch gestrecktern Oberkörper dem Boden an, bis man mit der Nase fast den Boden berührt. Nun werden gleichtzeitig beide Arme gestreckt wodurch man sich wieder in die Ausgangposition zurück drückt. "
+             )
+
+:tags (:level-1 )
+
+:involved (
+           ("Triceps brachii")
+           ("Pectoralis major")
+           ("Deltoideus")
+           ("Latissimus dorsi")
+           ("Rectus abdominis")
+          )
+          
+        
