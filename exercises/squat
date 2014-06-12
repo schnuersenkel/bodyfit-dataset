@@ -1,7 +1,8 @@
-:name "Squat (Kniebeuge)"
+:name "Squat"
 
 :description (
-              :de "In die Hocke und danach wieder in den Stand gehen."
+              :de "Die Kniebeuge. In die Hocke und danach wieder in den
+              Stand gehen."
              )
 
 :tags (:level-1)
