@@ -1,0 +1,32 @@
+:name "Super man Push up"
+
+:description (
+              :de "Führe einen normalen [Push up] durch und toße dich bei der Aufwärstbewegung so strak vom Boden ab,
+              dass du es schaffst in der Luft einen [Superman] zu machen. Lande wieder in der Ausgangsposition."
+             )
+
+:tags (:level-2 :full-body)
+
+:involved (
+           ("Triceps brachii".
+                             (:mass .6
+                              :stamina .6))
+           ("Pectoralis major" .
+                             (:mass .4
+                              :stamina .4))
+           ("Deltoideus".
+                             (:mass .4
+                              :stamina .5))
+           ("Latissimus dorsi".
+                             (:mass .5
+                              :stamina .5))
+           ("Rectus abdominis".
+                             (:mass .3
+                              :stamina .3))
+           ("Quadriceps femoris".
+                             (:mass .2
+                              :stamina .2))
+          ("Erector spinae" . 
+                             (:mass .3
+                              :stamina .3 ))
+          )
