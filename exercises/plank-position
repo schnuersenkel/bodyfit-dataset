@@ -1,0 +1,36 @@
+:name "Plank-position"
+
+:description (
+              :de  "Die Ausgangsposition ist die Bauchlage. Die Hände werden etwa Schulterbreit aufgesetzt und die Arme sind gestreckt. Durch Anspannung des Bauchs, Rückens und der Beine wird die Hüfte von Boden entfernt, so dass sich vom Kopf bis zu den Füssen eine grade Linie bildet. Das Gewicht wird auf Hände und die Fussballen verteilt. Diese Position halten."
+
+             )
+
+:tags (:level-0 :full-body)
+
+:involved (
+           ("Triceps brachii" .
+                             (:mass .2
+                              :stamina .3))
+          
+          
+		 ("pectoralis major" .
+                            ( :mass .1
+                              :stamina .2)) 
+                          
+		 ("deltotideus" .       
+		                        ( :mass .2
+                              :stamina .4))
+                              
+		 ("erector spinae".       
+		                        ( :mass .2
+                              :stamina .5))
+                              
+		 ("rectus abdominis".       
+		                        ( :mass .2
+                              :stamina .5))
+                              
+		 ("quadriceps femoris".       
+		                        ( :mass .1
+                              :stamina .2))
+                            
+        )
