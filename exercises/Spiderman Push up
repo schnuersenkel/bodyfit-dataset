@@ -1,0 +1,32 @@
+:name "Spiderman Push up"
+
+:description (
+              :de "Ausgangsposition ist die Plank Position.
+              Ziehe bei der Abwärstbewegung das rechtre Knie, parrallel zum Boden,
+              in Richtung des rechten Ellebogen. 
+              In der Aufwärsbewegung führe Sie das Bein in dei Ausgangsposition zurück. 
+              Wiederhole rechts und links abwechselnd."
+             )
+
+:tags (:level-2 :full-body)
+
+:involved (
+           ("Triceps brachii".
+                             (:mass .4
+                              :stamina .5)))
+           ("Pectoralis major".
+                             (:mass .4
+                              :stamina .4)))
+           ("Deltoideus".
+                             (:mass .3
+                              :stamina .4)))
+           ("Latissimus dorsi".
+                             (:mass .4
+                              :stamina .3)))
+           ("Rectus abdominis".
+                             (:mass .2
+                              :stamina .3)))
+           ("Quadriceps femoris".
+                             (:mass .3
+                              :stamina .4)))
+          )
