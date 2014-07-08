@@ -28,7 +28,7 @@
                               :stamina .3)))
            ("Rectus abdominis".
                              (:mass .1
-                              :stamina .2)))
+                              :stamina .1)))
           )
           
         
