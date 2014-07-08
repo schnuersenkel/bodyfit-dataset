@@ -10,20 +10,20 @@
 :involved (
            ("Triceps brachii".
                              (:mass .6
-                              :stamina .4)))
+                              :stamina .4))
            ("Pectoralis major".
                              (:mass .5
-                              :stamina .4)))
+                              :stamina .4))
            ("Deltoideus".
                              (:mass .4
-                              :stamina .4)))
+                              :stamina .4))
            ("Latissimus dorsi".
                              (:mass .5
-                              :stamina .3)))
+                              :stamina .3))
            ("Rectus abdominis".
                              (:mass .2
-                              :stamina .3)))
+                              :stamina .3))
            ("Quadriceps femoris".
                              (:mass .3
-                              :stamina .2)))
+                              :stamina .2))
           )
