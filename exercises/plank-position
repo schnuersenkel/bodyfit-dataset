@@ -1,7 +1,11 @@
 :name "Plank-position"
 
 :description (
-              :de  "Die Ausgangsposition ist die Bauchlage. Die Hände werden etwa Schulterbreit aufgesetzt und die Arme sind gestreckt. Durch Anspannung des Bauchs, Rückens und der Beine wird die Hüfte von Boden entfernt, so dass sich vom Kopf bis zu den Füssen eine grade Linie bildet. Das Gewicht wird auf Hände und die Fussballen verteilt. Diese Position halten."
+              :de  "Die Ausgangsposition ist die Bauchlage. 
+              Die Hände werden etwa Schulterbreit aufgesetzt und die Arme sind gestreckt. 
+              Durch Anspannung des Bauchs, Rückens und der Beine wird die Hüfte von Boden entfernt, 
+              so dass sich vom Kopf bis zu den Füssen eine grade Linie bildet. 
+              Das Gewicht wird auf Hände und die Fussballen verteilt. Diese Position halten."
 
              )
 
