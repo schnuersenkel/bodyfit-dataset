@@ -11,8 +11,8 @@
 
 :involved (
            ("Triceps brachii".
-                             (:mass .4
-                              :stamina .5)))
+                             (:mass .3
+                              :stamina .3)))
            ("Pectoralis major".
                              (:mass .5
                               :stamina .5)))
