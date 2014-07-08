@@ -1,7 +1,7 @@
 :name "Push up"
 
 :description (
-              :de "Ausgangsposition ist die Plank-Position. Durch
+              :de "Ausgangsposition ist die [Plank Position]. Durch
               gleichzeitiges beugen der Oberarme nähern man den immernoch
               gestrecktern Oberkörper dem Boden an, bis man mit der Nase
               fast den Boden berührt. Nun werden gleichtzeitig beide Arme
@@ -12,10 +12,22 @@
 :tags (:level-2 :full-body)
 
 :involved (
-           ("Triceps brachii")
-           ("Pectoralis major")
-           ("Deltoideus")
-           ("Latissimus dorsi")
-           ("Rectus abdominis")
-           ("Quadriceps femoris")
+           ("Triceps brachii".
+                             (:mass .4
+                              :stamina .5)))
+           ("Pectoralis major".
+                             (:mass .4
+                              :stamina .4)))
+           ("Deltoideus".
+                             (:mass .3
+                              :stamina .4)))
+           ("Latissimus dorsi".
+                             (:mass .4
+                              :stamina .3)))
+           ("Rectus abdominis".
+                             (:mass .2
+                              :stamina .3)))
+           ("Quadriceps femoris".
+                             (:mass .2
+                              :stamina .2)))
           )
