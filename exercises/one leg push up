@@ -1,0 +1,29 @@
+:name "one leg push up"
+
+:description (
+              :de "Nimm die [Plank Position] ein und führe einen Push up mit nur einem Bein auf dem Bodem aus.
+               Hebe das ander Bein in die Luft."
+             )
+
+:tags (:level-2 :full-body)
+
+:involved (
+           ("Triceps brachii".
+                             (:mass .4
+                              :stamina .5)))
+           ("Pectoralis major".
+                             (:mass .4
+                              :stamina .4)))
+           ("Deltoideus".
+                             (:mass .3
+                              :stamina .4)))
+           ("Latissimus dorsi".
+                             (:mass .4
+                              :stamina .3)))
+           ("Rectus abdominis".
+                             (:mass .2
+                              :stamina .3)))
+           ("Quadriceps femoris".
+                             (:mass .3
+                              :stamina .3)))
+          )
