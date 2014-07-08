@@ -1,0 +1,32 @@
+:name "Spiderman walk"
+
+:description (
+              :de "Ausgangsposition ist die [Plank Position]. 
+              Bewege gleichzeiti die eine Hand nach vorne und das rechte Knie,
+              parrallel zum Boden, zum rechten Ellebogen und setze dann Hand und Fuss an dieser Position ab.
+              Wiederhole diese Bewegung mit der jeweils gegenüberliegenden Seite, so dass eine worwärtsbewegung entsteht.
+              Je flacher sie die Bewegung ausführen, desto anstrengender wird sie."
+             )
+
+:tags (:level-2 :full-body)
+
+:involved (
+           ("Triceps brachii".
+                             (:mass .4
+                              :stamina .6)))
+           ("Pectoralis major".
+                             (:mass .4
+                              :stamina .5)))
+           ("Deltoideus".
+                             (:mass .3
+                              :stamina .5)))
+           ("Latissimus dorsi".
+                             (:mass .4
+                              :stamina .4)))
+           ("Rectus abdominis".
+                             (:mass .2
+                              :stamina .3)))
+           ("Quadriceps femoris".
+                             (:mass .3
+                              :stamina .3)))
+          )
