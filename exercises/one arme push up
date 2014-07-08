@@ -1,11 +1,11 @@
-:name "one arme push up "
+:name "one arm push up "
 
 :description (
               :de "Nimm die [Plank postition] ein und führe eine Hand hinter den Rücken. Mache jetzt eine Liegestütz.
               Einfach wird es wenn, wenn die du die Beine spreizt und deine Plank Position dadurch stabilisierst."
              )
 
-:tags (:level-2 :full-body)
+:tags (:level-3 :full-body)
 
 :involved (
            ("Triceps brachii".
