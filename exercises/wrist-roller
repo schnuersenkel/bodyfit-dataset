@@ -1,0 +1,31 @@
+:name "Wrist Roller"
+
+:description (
+              :de "Nehme in stehender Position den [Stab] in die Hand und lege das Gewicht zwischen die Füsse.
+              Nun drehst du den Stab so lange bis das Seil,
+              in der Ausgangsposition der Arme,
+              voll gespannt ist.
+              Wenn die Hände vor der Brust sind, ist die Belastung für den Biceps Mximal.
+              Wenn die Hände im rechten Winkel ausgestreckt sind, ist die Belastung für die Schultern maximal.
+              Du kannst auch jede andere Ausgangsposition für die Arme wählen,
+              diese bestimmt die Beanspruchung des Biceps und der Schulter.
+              Die Unterarme werden immer gleich beansprucht,
+              deswegen sollte für eine maximal mögliche Beanspruchung der unterarme die Nullposition gewählt werden.
+              Greife abwechselnd um den Stab drum herum, dass sich das Seil um den Stab wickelt und du somit das Gewicht nach oben bewegst.
+              Mach dies so lange bis das gesamte Seil aufgerollt ist und das Gewicht des Stab berührt.
+              Anschließend lässt du das Gewicht mit der entgegengesetzten Bewegung wieder runter."
+                          )
+
+:tags (:level-2)
+
+:involved (
+             ("Deltoideus".
+                             (:mass .3
+                              :stamina .4))
+            ("flexor carpi ulnaris".
+                            ( :mass .8
+                              :stamina .4))
+            ("extensor-carpi-ulnaris".
+                            ( :mass .8
+                              :stamina .4))     
+                     )
