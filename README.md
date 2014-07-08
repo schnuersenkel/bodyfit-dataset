@@ -11,7 +11,7 @@ bzw. der deutsche Name sowie die Beschreibung gehört in das
 `:description` Feld.
 
 ## Übungs Links 
-* [] : benutzte eckige Klammeren um Links zu Übungen zu machen. 
+* Benutzte eckige Klammeren um Links zu Übungen zu machen, z.B. `[Push up]`.
 
 ## Definierte Symbole
 
