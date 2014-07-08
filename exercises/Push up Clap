@@ -1,0 +1,29 @@
+:name "Push up Clap"
+
+:description (
+              :de "Führe einen normalen [Push up] aus und stoße dich während der Aufwärtsbewegung stark ab.
+              Klatsche mit den Händen bevor du wieder die Ausgangsposition einreichst.  "
+             )
+
+:tags (:level-2 :full-body)
+
+:involved (
+           ("Triceps brachii".
+                             (:mass .5
+                              :stamina .6)))
+           ("Pectoralis major".
+                             (:mass .4
+                              :stamina .6)))
+           ("Deltoideus".
+                             (:mass .3
+                              :stamina .4)))
+           ("Latissimus dorsi".
+                             (:mass .4
+                              :stamina .3)))
+           ("Rectus abdominis".
+                             (:mass .2
+                              :stamina .3)))
+           ("Quadriceps femoris".
+                             (:mass .2
+                              :stamina .2)))
+          )
