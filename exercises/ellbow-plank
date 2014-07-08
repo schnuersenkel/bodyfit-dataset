@@ -1,0 +1,40 @@
+:name "ellbow plank"
+
+:description (
+              :de  "Die Ausgangsposition ist die Plank Position. 
+              Die Unterarme werden nun, vor der Brust auf den Boden gelegt wobei die Spannung in der Schulter Gehaltern wird.
+              Kopf und Füssen sollte wieder in einer graden Linie sein. 
+              Das Gewicht wird auf den Unterarmen/Händen und die Fussballen verteilt. Diese Position halten."
+
+             )
+
+:tags (:level-2 :full-body :Core)
+
+:involved (
+           ("Triceps brachii" .
+                             (:mass .2
+                              :stamina .3))
+          
+          
+		 ("pectoralis major" .
+                            ( :mass .2
+                              :stamina .2)) 
+                          
+		 ("deltotideus" .       
+		                        ( :mass .4
+                              :stamina 54))
+                              
+		 ("erector spinae".       
+		                        ( :mass .3
+                              :stamina .5))
+                              
+		 ("rectus abdominis".       
+		                        ( :mass .3
+                              :stamina .5))
+                              
+		 ("quadriceps femoris".       
+		                        ( :mass .2
+                              :stamina .3))
+                            
+        )
+
