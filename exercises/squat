@@ -1,16 +1,19 @@
 :name "Squat"
 
 :description (
-              :de "Die Kniebeuge. In die Hocke und danach wieder in den
-              Stand gehen."
+              :de "Die klassische Kniebeuge. Ausgangsposition ist der aufrechte Stand.
+              Die Füsse sind etwa Schulterbreit auseinander und nach vorne gerichtet.
+              Die Arme werden nach vorne gestreckt und gehalten.
+              Nun geht man langsam in die Hocke bis der Kniewinkel unter 90 Grad beträgt und wieder in die Ausgangsposition zurück.
+              Während der ganzen Übung sollte das Knie niemals über die Fussspitze gehen. "
              )
 
-:tags (:level-1)
+:tags (:level-1 :)
 
 :involved (
            ("Quadriceps femoris" .
                              (:mass 1
-                              :stamina 0.2))
+                              :stamina 0.4))
            ("Erector spinae")
            ("Deltoideus")
           )
