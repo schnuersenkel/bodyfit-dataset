@@ -1,0 +1,31 @@
+:name "wide grip push up"
+
+:description (
+              :de "Lege dich in Bauchlage flach auf den Boden. Die Füsse sind aufgestellt und nebeneinander.
+              Die Arme sind waagerecht vom Körper gespreizt, die Hände flach auf dem Boden.
+              Führe die Hand um eine  Handlänge an die Schulter heran.
+              Drücke dich aus dieser Position hoch und führe einen Push up aus."
+             )
+
+:tags (:level-2 :full-body)
+
+:involved (
+           ("Triceps brachii".
+                             (:mass .4
+                              :stamina .5)))
+           ("Pectoralis major".
+                             (:mass .5
+                              :stamina .5)))
+           ("Deltoideus".
+                             (:mass .3
+                              :stamina .4)))
+           ("Latissimus dorsi".
+                             (:mass .4
+                              :stamina .3)))
+           ("Rectus abdominis".
+                             (:mass .2
+                              :stamina .3)))
+           ("Quadriceps femoris".
+                             (:mass .2
+                              :stamina .2)))
+          )
