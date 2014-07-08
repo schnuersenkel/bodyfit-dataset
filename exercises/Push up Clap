@@ -18,7 +18,7 @@
                              (:mass .3
                               :stamina .4)))
            ("Latissimus dorsi".
-                             (:mass .4
+                             (:mass .5
                               :stamina .3)))
            ("Rectus abdominis".
                              (:mass .2
